@@ -1,0 +1,17 @@
+{
+  "name": "redgifsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "snoowrap": "^1.21.0"
+  }
+}
